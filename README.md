@@ -14,7 +14,7 @@ Copy repo name and paste it in the terminal after the ```git clone``` command an
 enter, then ```git init``` to initialise the repo
 __Weather App by inputing__ 
 
-```git clone``` https://github.com/alindaByamukama/Capstone-Project-No.5 *enter*
+```git clone``` https://github.com/ *enter*
 ```git init``` *enter* 
 
 your desktop should have the cloned repository with the name:
