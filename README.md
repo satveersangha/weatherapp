@@ -1,6 +1,6 @@
  ## Weather App 😀️
 
-> ### Find out the weather wherever you are.
+> ### Find out the weather based on your current location.
 
 
 ## Before you Start,
@@ -26,20 +26,13 @@ __Weather App__
   - Convert to Fahrenheit
   
 ## How to use
-1. Create an Edu Account to be able to buy and sell fresh produce on
-our store if you don't already have one. Sign or up using the Edu Account page
-2. You should be directed to the homepage and be able to navigate through
-the site using the navigation bar.
-3. To buy products, select from the product page and they will be added to
-your cart then click checkout to purchase your good. Click cart to manage
-your items.
-4. Find out how to sell produce from our home page and where to pick your 
-goods from our pick up points near you.
+1. Simply input your location and it will display the weather, a description and the tepeerature in that area.
  
 ## Authors
-- ##### Alinda Susan
+- ##### 
+- ##### 
 - ##### Keto .A.
 
 
 ## Support
-For more information about EDU Shop Online, setup instructions and useful tips, visit our EDU Shop Online Help Center: https://support.eduonline.com/ .
+For more information about our Weather App, setup instructions and useful tips, visit our Help Center: https://support.weather.com/ .
