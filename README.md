@@ -26,7 +26,7 @@ __Weather App__
   - Convert to Fahrenheit
   
 ## How to use
-1. Simply input your location and it will display the weather, a description and the tepeerature in that area.
+1. Simply input your location and it will display the weather, a description and the temperature in that area.
  
 ## Authors
 - ##### 
